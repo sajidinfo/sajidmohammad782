@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently learning **Angular, Express JS, Node JS, Flutter**
+- 🌱 I’m currently learning **Bootstrap 5, Angular, Express JS, Node JS, Vanilla JavaScript, Flutter,**
 
 - 👯 I’m looking to collaborate on [AzadEducation](https://azadeducation.in/)
 
