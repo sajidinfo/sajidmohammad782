@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD Sajid</h1>
 <h3 align="center">A passionate frontend and backend developer from India</h3>
 
-- 🔭 I’m currently working on [Tour and Travels](http://aonetourtravels.in/)
+
 
 - 🌱 I’m currently learning **Angular, Express JS, Node JS, Flutter**
 
